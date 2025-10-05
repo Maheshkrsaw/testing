@@ -28,3 +28,30 @@
 // document.querySelector("p").innerHTML="Mahesh Kaise ho ";
 
 
+
+
+
+// for(i=0;i<=5;i++){
+//     console.log(i);
+    
+// }
+
+
+
+// searching an element from array 
+
+// function searchelement(arr,x){
+//     for(let i=0;i<arr.length;i++){
+//         if(arr[i]==x){
+//            return i;
+            
+//         }
+//     }
+//             return -1;
+        
+    
+// }
+// let arr=[5,10,15,20,25];
+
+// let result = searchelement(arr , 15);
+// console.log(result);
